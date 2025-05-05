@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Folder Name="/.SolutionItems/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path=".Solutionitems\docker-compose.yml" />
+    <File Path=".Solutionitems\kafka-load.js" />
+    <File Path=".Solutionitems\README.md" />
+    <File Path=".Solutionitems\kafka-load-too.js" />
+  </Folder>
+  <Project Path="KLoad.Consumer\KLoad.Consumer.csproj" Type="Classic C#" />
+  <Project Path="KLoad.Producer\KLoad.Producer.csproj" Type="Classic C#" />
+</Solution>

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package KLoad;
+
+// Employee message definition
+message Employee {
+    int32 Id = 1;        // Unique identifier for the employee
+    string Name = 2;     // Name of the employee
+    string Position = 3;  // Job position of the employee
+}
